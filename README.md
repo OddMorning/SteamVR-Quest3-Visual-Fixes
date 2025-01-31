@@ -29,3 +29,8 @@ P.S. Sadly, it seems it's not possible to fix the wrong controllers position wit
         * `[0.0031, -0.0287, 0.040629]` => `[-0.01484, -0.02159, 0.03480]`
     * `components.thumbstick.motion.center`
         * `[0.00169, -0.00769, 0.05279]` => `[0.00542, -0.00878, 0.04499]`
+
+## Extra
+The `Extra` folder contains Quest 3 icons replacement for "Dock on Left/Right Controller" buttons
+
+![Icons](./README-Extra.png)
