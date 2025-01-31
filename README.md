@@ -14,6 +14,7 @@ Both headset and controller icons are made from scratch. The source file can be 
 Fixed origin points of triggers and sticks. 
 
 ![Trigger](./README-Trigger.gif)
+
 ![Stick](./README-Stick.gif)
 
 P.S. Sadly, it seems it's not possible to fix the wrong controllers position without editing all the .obj files themselves.
