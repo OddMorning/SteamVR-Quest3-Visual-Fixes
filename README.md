@@ -2,8 +2,9 @@
 As they say, I did it because Valve didn't.
 
 ## Installation
-* Click the green **"Code"** button on the above page, then **"Download ZIP"**.
+* Click the green **"Code"** button on the above page, then **"Download ZIP"** (or [click here](https://github.com/OddMorning/SteamVR-Quest3-Visual-Fixes/archive/refs/heads/main.zip)).
 * Unpack the contents of the `SteamVR` folder into `...\Steam\steamapps\common\SteamVR`.
+* _Optionally_, unpack the contents of the `Extra/SteamVR` folder into `...\Steam\steamapps\common\SteamVR`.
 
 ## UI Icons
 Both headset and controller icons are made from scratch. The source file can be found in the `src` folder.
@@ -19,7 +20,7 @@ Fixed origin points of triggers and sticks.
 
 P.S. Sadly, it seems it's not possible to fix the wrong controllers position without editing all the .obj files themselves.
 
-#### Edited data (a note for future me):
+#### Edited data (a note for future me if something go wrong):
 * _oculus_quest_plus_controller_left.json_
     * `components.trigger.motion.pivot`
         * `[-0.0031, -0.0287, 0.040629]` => `[0.01484, -0.02159, 0.03480]`
