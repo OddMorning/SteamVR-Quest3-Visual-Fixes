@@ -36,3 +36,10 @@ P.S. Sadly, it seems it's not possible to fix the wrong controllers position wit
 The `Extra` folder contains Quest 3 icons replacement for "Dock on Left/Right Controller" buttons
 
 ![Icons](./README-Extra.png)
+
+## Changelog
+
+* **Feb 07, 2025**: Added missing gif files (didn't expect they're actually used)
+* **Jan 31, 2025**: Fixed controller pivot points; added missing headset icons
+* **Jan 30, 2025**: Replaced Pico 4u controller icons with handmade ones
+* **Jan 28, 2025**: UI icons
